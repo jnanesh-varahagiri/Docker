@@ -8,4 +8,4 @@ ENV API_URL=http://api.myapp.com/
 ENV JUNIT="Jnanesh"
 EXPOSE 3000
 
-# CMD ["npm" , "start"]
+CMD ["npm" , "start"]
